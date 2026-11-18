@@ -1,0 +1,1 @@
+vibe_training_data.csv is synthetic demo data generated for this educational portfolio project. It is not collected from real people and is not a validated personality assessment.
